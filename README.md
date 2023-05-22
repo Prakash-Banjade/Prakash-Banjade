@@ -9,6 +9,9 @@
     </i><br>
     I am currently studying as Bsc. CSIT student in <a href="">Butwal Multiple Campus</a>, Butwal, Nepal. Always wanting to explore new technologies and working on exciting projects. 
     <br>
+    <br>
+    Checkout my profile in other platform:
+    <br>
     <a href="https://www.linkedin.com/in/prakash-banjade-b673b2247/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
