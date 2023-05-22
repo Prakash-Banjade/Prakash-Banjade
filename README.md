@@ -7,7 +7,7 @@
         Currently on the way to master full-stack web development.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    I am currently studying as Bsc. CSIT student in <a href="">Butwal Multiple Campus</a>, Butwal, Nepal. Always wanting to explore new technologies and working on exciting projects. 
+    I am currently studying as Bsc. CSIT student in <a href="https://edusanjal.com/college/butwal-multiple-campus/">Butwal Multiple Campus</a>, Butwal, Nepal. Always wanting to explore new technologies and working on exciting projects. 
     <br>
     <br>
     Checkout my profile in other platform:
